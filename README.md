@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**Isacyan/Isacyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é isac yan
 
-Here are some ideas to get you started:
+-estou estudando na alura(https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou aprendendo Java script
+
+-utilizo esse espaço para minha organização e compartilhando dos meus projetos desenvolvidos
+
+### você pode entrar em contato comigo 📫
+
+isacyan3@gmail.com
+
+
+![image](https://github.com/user-attachments/assets/4235bc87-cc23-4a49-bca5-9ad91030d618)
